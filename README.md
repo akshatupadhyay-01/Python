@@ -27,7 +27,7 @@ README.md
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/python-todo-list.git
+https://github.com/akshatupadhyay-01/python-todo-list.git
 ```
 
 2. Open the project folder
